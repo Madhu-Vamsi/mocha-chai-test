@@ -1,0 +1,16 @@
+{
+  "name": "fresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha testing2.js --timeout 15000 --exit"
+  },
+  "dependencies": {
+    "got": "^9.5.0",
+    "mocha": "4.0.1",
+    "chai": "4.1.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
